@@ -11,10 +11,10 @@
 
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
-![Solidity](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=solidity&logoColor=fff)
-![Node](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=node&logoColor=fff)
-![React](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=react&logoColor=fff)
-![ReactNative](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=reactnative&logoColor=fff)
+![Solidity](https://img.shields.io/badge/-Solidity-007acc?style=for-the-badge&logo=solidity&logoColor=fff)
+![Node](https://img.shields.io/badge/-Node-007acc?style=for-the-badge&logo=node&logoColor=fff)
+![React](https://img.shields.io/badge/-React-007acc?style=for-the-badge&logo=react&logoColor=fff)
+![ReactNative](https://img.shields.io/badge/-ReactNative-007acc?style=for-the-badge&logo=reactnative&logoColor=fff)
 <!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff) -->
 
 Hi Everyone!!!
