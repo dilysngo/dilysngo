@@ -1,3 +1,6 @@
+
+<h2>Hi You! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdilysngo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/dilysngo0203)](https://www.facebook.com/dilysngo0203)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dilysngo)](https://www.instagram.com/dilysngo)
@@ -8,6 +11,8 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=dilysngo&show_icons=true&count_private=true&hide_border=true)
 
 <!-- https://simpleicons.org -->
+<p>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Technology Stack</h2>
 
 ![Architect](https://img.shields.io/badge/-Architect-3955a3?style=for-the-badge&logo=microsoft%20visio&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
@@ -16,5 +21,3 @@
 ![React](https://img.shields.io/badge/-React-007acc?style=for-the-badge&logo=react&logoColor=fff)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-007acc?style=for-the-badge&logo=reactnative&logoColor=fff)
 <!-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=fff) -->
-
-Hi Everyone!!!
