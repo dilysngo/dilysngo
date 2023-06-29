@@ -8,7 +8,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dilysngo&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=dilysngo&show_icons=true&count_private=true&hide_border=true)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=dilysngo&show_icons=true&count_private=true&hide_border=true) -->
 
 <!-- https://simpleicons.org -->
 <p>
